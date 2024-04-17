@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditi572
-- 👀 I’m interested in python and c
+- 👀 I’m interested in python 
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on cool and fun projects
 - 📫 Reach me at g2000.aditi@gmail.com
